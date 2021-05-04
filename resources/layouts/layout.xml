@@ -1,0 +1,4 @@
+<layout id="MainLayout">
+    <bitmap id="dolphin" x="center" y="40" filename="../drawables/dolphin_lite.png" />
+    <label id="ratio" x="50%" y="177" color="0x4EE2EC" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER"/>
+</layout>
